@@ -77,7 +77,7 @@ def process_folder(input_folder, output_folder):
             resize_pdf(input_path, output_path)
             #pdf_size(output_path)
 
-# Example usage
+# Running the code
 input_folder = "C:/Users/phili/Desktop/EasyHealth/Resizing PDFs/wrong/Elevance Notes Batch 2/"
 output_folder = "C:/Users/phili/Desktop/EasyHealth/Resizing PDFs/correct/Elevance Notes Batch 2/"
 process_folder(input_folder, output_folder)
